@@ -1,2 +1,2 @@
 # Parallax
-Made a Parallax using HTML , CSS
+Made a web page which gives a Parallax Effect using HTML , CSS
